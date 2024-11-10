@@ -1,0 +1,35 @@
+/* sales.css */
+.sales-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.bill-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.bill-form input, .bill-form select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.submit-bill-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-bill-btn:hover {
+    background-color: #45a049;
+}

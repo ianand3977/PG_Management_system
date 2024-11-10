@@ -1,0 +1,23 @@
+/* main.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f9fc;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #4CAF50;
+}
+
+.navbar-brand, .nav-link, .btn {
+    color: white !important;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
